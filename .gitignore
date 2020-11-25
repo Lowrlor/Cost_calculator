@@ -1,0 +1,5 @@
+.env
+/uploads
+/tmp_img
+/node_modules
+package.json
